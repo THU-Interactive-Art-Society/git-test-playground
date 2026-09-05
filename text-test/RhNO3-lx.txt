@@ -2,3 +2,9 @@ this is my first commit
 second
 third
 checkmate
+<<<<<<< HEAD
+
+！？西瓜？！
+=======
+fame
+>>>>>>> ca3cde14618524fc63d3c33924b3d863d565910e
